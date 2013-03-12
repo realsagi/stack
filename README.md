@@ -1,0 +1,4 @@
+stack
+=====
+
+infix to postfix
